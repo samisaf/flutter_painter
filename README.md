@@ -1,0 +1,1 @@
+A demo app illustrating the use of flutter painter, and timer to create an animation
